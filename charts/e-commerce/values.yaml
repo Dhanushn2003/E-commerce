@@ -1,11 +1,11 @@
-namespace: ecoo-ns 
+namespace: dhanush-ns 
 
 replicas: 3
 
 appDeployment:
  labels:
   app: ecommerce
- name: ecommerce-conatiner
+ name: ecommerce-container
 
 image:
  repository: dhanushn2003/ecommerce-image
