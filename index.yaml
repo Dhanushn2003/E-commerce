@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  E-commerce-app:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2026-03-02T05:39:34.759041294Z"
+    description: A Helm chart for Kubernetes
+    digest: e8f2653ead0e88e75fc8719c7d3d766f55f726c1e15e10773106939b6b03bcce
+    name: E-commerce-app
+    type: application
+    urls:
+    - https://github.com/Dhanushn2003/E-commerce/releases/download/E-commerce-app-0.1.6/E-commerce-app-0.1.6.tgz
+    version: 0.1.6
+generated: "2026-03-02T05:39:34.759054318Z"
